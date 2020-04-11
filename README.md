@@ -1,3 +1,3 @@
-# Headline
+# Personal blog
 
-> An awesome project.
+> A project to record daily learning
